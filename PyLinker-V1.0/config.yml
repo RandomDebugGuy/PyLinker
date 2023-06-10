@@ -1,0 +1,3 @@
+discord_token: <Bot Token Here>
+openai_api_key: <OpenAI Key here>
+openai_model: text-davinci-002 #can be text-davinci-002 or 003
